@@ -18,8 +18,7 @@ h6 {
 
 .exp-header {
   text-align: center; 
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: #b0c4de
+  border-top: 4px solid lightblue;
+  border-bottom: 4px solid lightblue;
+ 
 }
-
