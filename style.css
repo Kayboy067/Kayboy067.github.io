@@ -1,5 +1,9 @@
 body {
-  background-color: skyblue;
+  background-image: url("https://static3.depositphotos.com/1000641/112/i/950/depositphotos_1120947-stock-photo-background-with-abstract-smooth-lines.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: Arial, Calibri, Sans-serif;
   margin: 1in 1in
 }
