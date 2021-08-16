@@ -1,1 +1,18 @@
+body {
+  background-image: url("https://static3.depositphotos.com/1000641/112/i/950/depositphotos_1120947-stock-photo-background-with-abstract-smooth-lines.jpg");
+  font-family: Arial, Calibri, Sans-serif;
+  margin: 5% 10%
+}
 
+h1 {
+  text-align: center; line-height: 0
+}
+
+h6 {
+  text-align: center; font-size: 10px
+}
+
+.exp-header {
+  text-align: center; 
+  background-color: lightblue
+}
