@@ -1,7 +1,7 @@
 body {
-  background-image: url("https://images.unsplash.com/photo-1549396563-73701bbb8f20?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGJhY2tkcm9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80g");
+  background-color: skyblue;
   font-family: Arial, Calibri, Sans-serif;
-  margin: 5% 10%
+  margin: 1in 1in
 }
 
 h1 {
@@ -14,4 +14,8 @@ h6 {
 
 .exp-header {
   text-align: center; 
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0, 0.2)
 }
+
